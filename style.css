@@ -1,0 +1,31 @@
+body {
+  font-size: 1.5em;
+}
+
+.div1 {
+  width: 100%;
+  background: grey;
+  white-space: nowrap;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+.div2{
+  width: 200px;
+  margin-right: 24px;
+  font-size: 2em;
+  font-style: normal;
+  text-align: right;
+}
+#display {
+  font-size: 2em;
+  font-style: oblique;
+  text-align: right;
+  margin-bottom: 20px;
+  padding: 5px;
+  width: 50px;
+  text-align: right;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
